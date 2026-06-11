@@ -1,7 +1,9 @@
 # Hi there, I'm Kartik Sonawane 👋
 
-🎓 B.Tech AI & ML Student @ G. H. Raisoni College, Pune  
-🤖 Building real AI & Full-Stack products  
+![Visitor Count](https://komarev.com/ghpvc/?username=kartikjsonawane&color=blue&style=flat)
+
+🎓 B.Tech AI & ML Student @ G. H. Raisoni College, Pune
+🤖 Building real AI & Full-Stack products
 📍 Pune, India · Open to Remote Internships
 
 ---
@@ -30,14 +32,35 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 ![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikjsonawane&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikjsonawane&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🏆 Achievements
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kartikjsonawane&theme=dark&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&row=1)
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Large Language Models & Prompt Engineering
+- ☁️ AWS Cloud Practitioner
+- 📊 MLOps & Model Deployment at scale
+
+---
+
+## 🏅 Achievements
+
 - 🧩 132 LeetCode problems solved
 - ⭐ HackerRank 6-star Problem Solving badge
 - 📜 Andrew Ng ML Specialization — Coursera
@@ -45,8 +68,18 @@
 
 ---
 
+## ⚡ Fun Facts
+
+- 🎸 I play guitar to unwind after debugging sessions
+- 🏊 Swimming is my reset button
+- 📖 I read tech blogs more than textbooks
+- 🌱 Built CropMD to solve a real problem farmers face every day
+- 💡 I believe the best way to learn is to build
+
+---
+
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikjsonawane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]( kartik-portfolio-pearl-two.vercel.app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kartik-portfolio-pearl-two.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartikjaywantsonawane@gmail.com)

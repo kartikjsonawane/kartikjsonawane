@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
 
 ---
 

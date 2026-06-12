@@ -1,10 +1,20 @@
-# Hi there, I'm Kartik Sonawane 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&width=600&lines=Hi+there%2C+I'm+Kartik+Sonawane+👋;AI%2FML+%26+Full-Stack+Engineer;Building+real+products+with+real+impact;Open+to+Remote+Internships!)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikjsonawane&color=blue&style=flat)
 
 🎓 B.Tech AI & ML Student @ G. H. Raisoni College, Pune
 🤖 Building real AI & Full-Stack products
 📍 Pune, India · Open to Remote Internships
+
+---
+
+## 👨‍💻 What I'm up to
+
+- 🔭 Currently working on → improving **CropMD** with more disease classes
+- 🌱 Currently learning → **LLMs, MLOps & AWS**
+- 👯 Open to → **Remote internships in AI/ML or Full Stack**
+- 💬 Ask me about → **Python, TensorFlow, React, Android Dev**
+- ⚡ Fun fact → I debug better with guitar music playing 🎸
 
 ---
 
@@ -48,6 +58,18 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&row=1)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/kartikjsonawane/kartikjsonawane/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kartikjsonawane?theme=dark&font=Nunito&ext=contest)
 
 ---
 

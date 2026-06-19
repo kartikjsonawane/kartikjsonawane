@@ -57,9 +57,12 @@
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+![Achievement](https://img.shields.io/badge/LeetCode-132%20Problems%20Solved-orange?style=flat&logo=leetcode)
+![Achievement](https://img.shields.io/badge/HackerRank-6%20Star%20Problem%20Solving-brightgreen?style=flat&logo=hackerrank)
+![Achievement](https://img.shields.io/badge/Coursera-ML%20Specialization-blue?style=flat&logo=coursera)
+![Achievement](https://img.shields.io/badge/Coursera-TensorFlow%20Certificate-blue?style=flat&logo=coursera)
 ---
 
 ## 🐍 Contribution Snake

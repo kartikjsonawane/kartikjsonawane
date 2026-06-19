@@ -57,8 +57,9 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
+## 🏆 GitHub Trophies
 
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=kartikjsonawane&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 ---
 
 ## 🐍 Contribution Snake

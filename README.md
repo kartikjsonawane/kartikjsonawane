@@ -55,7 +55,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 ## 🏆 Achievements
 

@@ -40,7 +40,7 @@
 | 📱 [VisionTrack](https://github.com/kartikjsonawane/VisionTrack) | Real-time Android object detection at 28 FPS using YOLOv8 | Kotlin, TFLite, CameraX |
 | 💻 [DevConnect](https://github.com/kartikjsonawane/devconnect) | Full-stack developer social platform with JWT, WebSockets, Docker | React, Node.js, MongoDB |
 | 🍜 [FlavorFlow](https://github.com/kartikjsonawane/flavorflow-app) | AI food delivery app with mood-based recommendations, live tracking & gamification | Kotlin, Jetpack Compose, Node.js, MongoDB |
-| 🌿 [Green Harvest Produce](https://github.com/kartikjsonawane/green-harvest-produce) | Production-ready agri-business website with full EN/Hindi/Marathi i18n, admin dashboard & AI chatbot · [Live](https://green-harvest-produce.vercel.app) | Next.js 15, TypeScript, Tailwind, next-intl |
+| 🌿 [Green Harvest  Produce](https://github.com/kartikjsonawane/green-harvest-produce) | Production-ready agri-business website with full EN/Hindi/Marathi i18n, admin dashboard & AI chatbot | Next.js 15, TypeScript, Tailwind, next-intl |
 | 🔮 [Churn Predictor](https://github.com/kartikjsonawane/churn-predictor) | XGBoost churn model, 89% accuracy, deployed as Flask REST API | Python, XGBoost, Flask |
 
 ---

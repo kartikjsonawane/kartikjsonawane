@@ -38,6 +38,7 @@
 | 🌱 [CropMD](https://github.com/kartikjsonawane/cropmd) | AI crop disease classifier — ResNet-50, 94% accuracy, 87K images | Python, TensorFlow, Flask, React |
 | 📱 [VisionTrack](https://github.com/kartikjsonawane/VisionTrack) | Real-time Android object detection at 28 FPS using YOLOv8 | Kotlin, TFLite, CameraX |
 | 💻 [DevConnect](https://github.com/kartikjsonawane/devconnect) | Full-stack developer social platform with JWT, WebSockets, Docker | React, Node.js, MongoDB |
+| 🍜 [FlavorFlow](https://github.com/kartikjsonawane/flavorflow-app) | AI food delivery app with mood-based recommendations, live tracking & gamification | Kotlin, Jetpack Compose, Node.js, MongoDB |
 | 🔮 [Churn Predictor](https://github.com/kartikjsonawane/churn-predictor) | XGBoost churn model, 89% accuracy, deployed as Flask REST API | Python, XGBoost, Flask |
 
 ---
@@ -55,14 +56,13 @@
 
 ---
 
-
-
 ## 🏆 Achievements
 
 ![Achievement](https://img.shields.io/badge/LeetCode-132%20Problems%20Solved-orange?style=flat&logo=leetcode)
 ![Achievement](https://img.shields.io/badge/HackerRank-6%20Star%20Problem%20Solving-brightgreen?style=flat&logo=hackerrank)
 ![Achievement](https://img.shields.io/badge/Coursera-ML%20Specialization-blue?style=flat&logo=coursera)
 ![Achievement](https://img.shields.io/badge/Coursera-TensorFlow%20Certificate-blue?style=flat&logo=coursera)
+
 ---
 
 ## 🐍 Contribution Snake

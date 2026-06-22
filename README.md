@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&width=600&lines=Hi+there%2C+I'm+Kartik+Sonawane+👋;AI%2FML+%26+Full-Stack+Engineer;Building+real+products+with+real+impact;Open+to+Remote+Internships!)](https://git.io/typing-svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikjsonawane&color=blue&style=flat)
 
 🎓 B.Tech AI & ML Student @ G. H. Raisoni College, Pune

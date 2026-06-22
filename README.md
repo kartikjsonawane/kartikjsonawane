@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&width=600&lines=Hi+there%2C+I'm+Kartik+Sonawane+👋;AI%2FML+%26+Full-Stack+Engineer;Building+real+products+with+real+impact;Open+to+Remote+Internships!)](https://git.io/typing-svg)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikjsonawane&color=blue&style=flat)
 
 🎓 B.Tech AI & ML Student @ G. H. Raisoni College, Pune
@@ -24,6 +23,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -39,6 +39,7 @@
 | 📱 [VisionTrack](https://github.com/kartikjsonawane/VisionTrack) | Real-time Android object detection at 28 FPS using YOLOv8 | Kotlin, TFLite, CameraX |
 | 💻 [DevConnect](https://github.com/kartikjsonawane/devconnect) | Full-stack developer social platform with JWT, WebSockets, Docker | React, Node.js, MongoDB |
 | 🍜 [FlavorFlow](https://github.com/kartikjsonawane/flavorflow-app) | AI food delivery app with mood-based recommendations, live tracking & gamification | Kotlin, Jetpack Compose, Node.js, MongoDB |
+| 🌿 [Green Harvest Produce](https://github.com/kartikjsonawane/green-harvest-produce) | Production-ready agri-business website with full EN/Hindi/Marathi i18n, admin dashboard & AI chatbot · [Live](https://green-harvest-produce.vercel.app) | Next.js 15, TypeScript, Tailwind, next-intl |
 | 🔮 [Churn Predictor](https://github.com/kartikjsonawane/churn-predictor) | XGBoost churn model, 89% accuracy, deployed as Flask REST API | Python, XGBoost, Flask |
 
 ---
